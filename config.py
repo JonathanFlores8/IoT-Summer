@@ -1,0 +1,4 @@
+WIFI_SSID = 'NETGEAR61'
+WIFI_PASSWORD = 'ollepolle94'
+AIO_USERNAME = 'muskamuska'
+AIO_KEY = 'aio_kKlk01aYWWB4HLLwxNI09GGkUQLU'
